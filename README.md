@@ -21,7 +21,7 @@
 
 `Note: all query params related searches are case insensitive.`
 
-## Mandatory:
+## Use :
 
 1. Initialize NPM.
 2. Use of ExpressJS.
