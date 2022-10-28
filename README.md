@@ -30,7 +30,4 @@
 5. Command: `npm run start` should start the server.
 6. [Use the given person.json file.](https://github.com/riteshf/b20.c1/blob/main/person.json)
 
-## General Instructions (**_IMPORTANT_**)
 
-1. Make sure you follow `masai-repo` standards.
-2. Expected use of routing to seperate out user and product code.
