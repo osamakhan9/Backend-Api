@@ -1,8 +1,8 @@
 # Getting Started
 
-1. [Go to Github URL: https://github.com/riteshf/b20.c1.git](https://github.com/riteshf/b20.c1.git)
-2. Download the zip.
-3. Unzip .
+
+1. Download the zip.
+2. Unzip .
 
 # Task
 
